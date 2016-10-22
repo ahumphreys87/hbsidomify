@@ -6,13 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
-  "devDependencies": {
-    "browserify-transform-tools": "^1.5.0"
-  },
+  "author": "Andrew Humphreys <ahumphreys87@googlemail.com>",
+  "license": "MIT",
   "dependencies": {
-    "htmlbars": "^0.14.10",
-    "lodash": "^3.10.1"
+    "browserify-transform-tools": "^1.5.0",
+    "handlebars-idom": "0.0.1"
   }
 }
