@@ -1,6 +1,6 @@
 {
   "name": "hbsidomify",
-  "version": "0.1.5",
+  "version": "0.2.0",
   "description": "A browserify transform to convert handlebars templates into incremental-dom",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   "author": "Andrew Humphreys <ahumphreys87@googlemail.com>",
   "license": "MIT",
   "dependencies": {
-    "browserify-transform-tools": "^1.5.0",
+    "through": "~2.3.8",
     "handlebars-idom": "0.1.5"
   }
 }
